@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Projects\\FloorIsLava\\Source\\FloorIsLava\\FloorIsLava.Build.cs",
+		"C:\\Unreal Projects\\FloorIsLava\\Source\\FloorIsLava.Target.cs",
+		"C:\\Unreal Projects\\FloorIsLava\\Source\\FloorIsLavaEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}

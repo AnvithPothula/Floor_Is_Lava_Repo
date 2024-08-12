@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal projects\\floorislava\\intermediate\\build\\win64\\unrealeditor\\inc\\floorislava\\uht\\floorislavagamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal projects\\floorislava\\intermediate\\build\\win64\\x64\\floorislavaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal projects\\floorislava\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\floorislava\\definitions.floorislava.h",
+            "c:\\unreal projects\\floorislava\\source\\floorislava\\floorislavagamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\unreal projects\\floorislava\\intermediate\\build\\win64\\unrealeditor\\inc\\floorislava\\uht\\floorislavagamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

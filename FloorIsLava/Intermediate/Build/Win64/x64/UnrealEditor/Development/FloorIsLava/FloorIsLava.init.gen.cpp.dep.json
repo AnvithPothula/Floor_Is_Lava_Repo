@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal projects\\floorislava\\intermediate\\build\\win64\\unrealeditor\\inc\\floorislava\\uht\\floorislava.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal projects\\floorislava\\intermediate\\build\\win64\\x64\\floorislavaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal projects\\floorislava\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\floorislava\\definitions.floorislava.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

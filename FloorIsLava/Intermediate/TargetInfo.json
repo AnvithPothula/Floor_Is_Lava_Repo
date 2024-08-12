@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FloorIsLava",
+			"Path": "..\\Source\\FloorIsLava.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FloorIsLavaEditor",
+			"Path": "..\\Source\\FloorIsLavaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
