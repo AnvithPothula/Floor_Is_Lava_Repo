@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Unreal Projects\\FloorIsLava\\Source\\FloorIsLava\\FloorIsLava.Build.cs",
-		"C:\\Unreal Projects\\FloorIsLava\\Source\\FloorIsLava.Target.cs",
-		"C:\\Unreal Projects\\FloorIsLava\\Source\\FloorIsLavaEditor.Target.cs"
+		"C:\\Users\\Jithin\\Documents\\GitHub\\Floor_Is_Lava_Repo\\FloorIsLava\\Source\\FloorIsLava\\FloorIsLava.Build.cs",
+		"C:\\Users\\Jithin\\Documents\\GitHub\\Floor_Is_Lava_Repo\\FloorIsLava\\Source\\FloorIsLava.Target.cs",
+		"C:\\Users\\Jithin\\Documents\\GitHub\\Floor_Is_Lava_Repo\\FloorIsLava\\Source\\FloorIsLavaEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.3"
 }
