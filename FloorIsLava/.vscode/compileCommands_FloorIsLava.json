@@ -2,7 +2,7 @@
 	{
 		"file": "C:\\Unreal Projects\\FloorIsLava\\Source\\FloorIsLava\\FloorIsLava.Build.cs",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
 			"@C:\\Unreal Projects\\FloorIsLava\\.vscode\\compileCommands_FloorIsLava\\FloorIsLava.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
@@ -10,7 +10,7 @@
 	{
 		"file": "C:\\Unreal Projects\\FloorIsLava\\Source\\FloorIsLava\\FloorIsLava.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
 			"@C:\\Unreal Projects\\FloorIsLava\\.vscode\\compileCommands_FloorIsLava\\FloorIsLava.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
@@ -18,7 +18,7 @@
 	{
 		"file": "C:\\Unreal Projects\\FloorIsLava\\Source\\FloorIsLava\\FloorIsLava.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
 			"@C:\\Unreal Projects\\FloorIsLava\\.vscode\\compileCommands_FloorIsLava\\FloorIsLava.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
@@ -26,7 +26,7 @@
 	{
 		"file": "C:\\Unreal Projects\\FloorIsLava\\Source\\FloorIsLava\\FloorIsLavaCharacter.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
 			"@C:\\Unreal Projects\\FloorIsLava\\.vscode\\compileCommands_FloorIsLava\\FloorIsLava.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
@@ -34,7 +34,7 @@
 	{
 		"file": "C:\\Unreal Projects\\FloorIsLava\\Source\\FloorIsLava\\FloorIsLavaCharacter.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
 			"@C:\\Unreal Projects\\FloorIsLava\\.vscode\\compileCommands_FloorIsLava\\FloorIsLava.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
@@ -42,7 +42,7 @@
 	{
 		"file": "C:\\Unreal Projects\\FloorIsLava\\Source\\FloorIsLava\\FloorIsLavaGameMode.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
 			"@C:\\Unreal Projects\\FloorIsLava\\.vscode\\compileCommands_FloorIsLava\\FloorIsLava.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
@@ -50,7 +50,7 @@
 	{
 		"file": "C:\\Unreal Projects\\FloorIsLava\\Source\\FloorIsLava\\FloorIsLavaGameMode.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
 			"@C:\\Unreal Projects\\FloorIsLava\\.vscode\\compileCommands_FloorIsLava\\FloorIsLava.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
